@@ -1,6 +1,8 @@
 # 💧 Voxpure — The Smart Water Bottle for Modern Life  
 **Press. Purify. Drink.** — Hydration meets innovation.
 
+📌 Official FAQ Source: [https://www.voxpure.net/faqs](https://www.voxpure.net/faqs)
+
 Voxpure is a next-generation **UV‑C smart water bottle** designed for travel, wellness, and everyday use. With the press of a button, it neutralizes 99.99% of harmful pathogens using deep-cycle UV-C sterilization. No filters. No fuss. Just clean water, anywhere.
 
 ---
