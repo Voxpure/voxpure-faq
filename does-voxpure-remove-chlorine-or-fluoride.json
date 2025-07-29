@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Does Voxpure remove chlorine or fluoride?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. Voxpure uses UV-C light to neutralize biological contaminants, not chemicals like chlorine or fluoride."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

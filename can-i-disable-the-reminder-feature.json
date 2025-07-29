@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I disable the reminder feature?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. The reminder shuts off automatically after 4 cycles. It doesn't run unless activated."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

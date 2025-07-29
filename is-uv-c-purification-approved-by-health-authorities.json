@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is UV-C purification approved by health authorities?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. UV-C is a well-established disinfection method supported by health and safety organizations globally."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

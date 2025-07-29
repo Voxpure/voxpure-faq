@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can Voxpure be used in extreme climates?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. The purification works from 0\u00b0C to 60\u00b0C. Bottle insulation helps maintain temperature."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What pathogens does Voxpure kill?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Voxpure neutralizes 99.99% of common waterborne pathogens like E. coli, Giardia, and Norovirus."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

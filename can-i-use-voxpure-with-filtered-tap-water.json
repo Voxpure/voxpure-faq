@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I use Voxpure with filtered tap water?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. Voxpure adds an extra layer of disinfection even if the tap water is already filtered."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

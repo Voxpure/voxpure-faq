@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Does Voxpure use BPA-free materials?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. All contact surfaces are BPA-free and tested for safety."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

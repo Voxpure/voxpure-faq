@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I use Voxpure during power outages?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. Once charged, Voxpure functions without needing an external power source."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}

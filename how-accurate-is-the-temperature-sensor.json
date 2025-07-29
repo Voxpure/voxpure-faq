@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How accurate is the temperature sensor?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Accurate to \u00b11\u00b0C. External heat from UV-C may temporarily raise the reading slightly."
+  },
+  "source": "https://www.voxpure.net/faqs"
+}
