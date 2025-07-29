@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How long does UV-C purification take in smart bottles?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Voxpure completes a sterilization cycle in just 60 seconds. This ensures effective disinfection while preserving battery life for up to 60 cycles per charge."
+  },
+  "source": "https://www.voxpure.net/faqs#how-long-does-uvc-purification-take"
+}

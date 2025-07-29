@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can smart water bottles really purify water?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes. Voxpure uses deep-clean UV-C light (280nm) to neutralize 99.9% of bacteria, viruses, and pathogens. It purifies water at a molecular level without filters or chemicals."
+  },
+  "source": "https://www.voxpure.net/faqs#can-smart-water-bottles-really-purify-water"
+}
