@@ -1,0 +1,302 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why do you sell Voxpure through retail partners?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Voxpure blends into active lifestyle gear ecosystems like yoga mats and backpacks. Partners widen reach. OEM/ODM support is available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is whiteâ€‘label or coâ€‘branding available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Custom branding is available for bulk orders, subject to MOQ and lead times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer regional exclusivity?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In select cases â€” based on partner performance and market alignment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are your lead times?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stock typically ships within 24 hours; larger wholesale orders may take up to 14 days."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can we sell Voxpure online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, if you're a verified partner. Direct marketplace sales (e.g. Amazon) are only allowed through approved partners."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you support drop-shipping?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Voxpure ships only to retailer locations for wholesale orders."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the warranty on Voxpure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each bottle comes with a 1-year limited warranty covering manufacturing defects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I request a replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact your retailer or reach out to support with your product serial number."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the return policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unused items in original packaging can be returned within 30 days. Faulty items qualify for replacement or refund."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find the product barcode or serial number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's printed on the outside of the box â€” keep it for support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you sell replacement caps or parts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not currently â€” but if under warranty, we replace units with cap-related issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a USB-C charging cable included?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and itâ€™s compatible with any standard USB-C cable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What comes in the Voxpure box?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "One Voxpure Smart Bottle, USB-C charging cable, user manual, and certificate of conformity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Voxpure made?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Designed in Hong Kong and manufactured in China with CE/UKCA certifications."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use Voxpure with tap water abroad?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes â€” designed for global travel and public water sources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use river or stream water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes â€” works with clear sources. Let sediment settle first as it doesnâ€™t filter particles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Voxpure alter taste or remove PFAS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No â€” it disinfects biologically but doesnâ€™t filter chemicals or change water chemistry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What temperature ranges work for UVâ€‘C?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sterilisation functions between 0â€¯Â°C and 60â€¯Â°C; holds hot or cold for up to 12 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I activate purification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tap the cap to wake it, then press and hold for 2 seconds â€” the blue ring begins countdown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many sterilizations per charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Up to 60 cycles per full charge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long to charge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "About 2â€“3 hours using USBâ€‘C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Voxpure waterproof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes â€” rated IPX4. Do not charge while wet."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if I open the cap midâ€‘cycle?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Purification stops immediately (built-in safety feature)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you store hot liquids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes â€” insulation holds up to 12 hours. UV-C wonâ€™t activate above 60â€¯Â°C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the temperature display accurate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, though it may read ~6â€“8â€¯Â°C higher post-sterilization due to internal heat."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I use drink reminders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Double-tap the cap to start 90-minute intervals. Four alerts max, then auto-off to conserve battery."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What do the LED ring colors mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Blue = UV cycle running; Green = drink reminder; Light blue = under 36â€¯Â°C; Green = moderate (37â€“60â€¯Â°C); Red = hot (over 60â€¯Â°C); Flashing red = charging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I disable the temperature display?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It only activates when touched; no need to disable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the bottle dishwasher-safe?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bottle yes; cap should be wiped gently â€” contains electronics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I replace the battery or UV light?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Components are sealed. For failures, contact support â€” sealed design protects integrity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if the cap fails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact support; replacements offered under warranty or defect guidelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use it on a plane?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes â€” carry-on friendly. Must be empty before security screening."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an app or Bluetooth?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No â€” Voxpure is self-contained. Simple, dependable, and doesnâ€™t rely on apps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if it leaks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensure cap is tightened; persistent issues should be reported to support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use other liquids?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only water recommended. Other liquids may affect performance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How will I know when to recharge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red flashing LED ring indicates low battery. Recharge via USBâ€‘C."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it compatible with other bottle holders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fits most standard holders â€” but best to match dimensions exactly."
+      }
+    }
+  ]
+}
