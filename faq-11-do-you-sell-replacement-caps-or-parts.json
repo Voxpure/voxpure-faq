@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Do you sell replacement caps or parts?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Not currently \u2014 but if under warranty, we replace units with cap-related issues."
+  },
+  "source": "https://www.voxpure.net/faqs#do-you-sell-replacement-caps-or-parts"
+}

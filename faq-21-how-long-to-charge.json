@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How long to charge?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "About 2\u20133 hours using USB\u2011C."
+  },
+  "source": "https://www.voxpure.net/faqs#how-long-to-charge"
+}

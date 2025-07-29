@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can you store hot liquids?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes \u2014 insulation holds up to 12 hours. UV-C won\u2019t activate above 60\u202f\u00b0C."
+  },
+  "source": "https://www.voxpure.net/faqs#can-you-store-hot-liquids"
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is Voxpure waterproof?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes \u2014 rated IPX4. Do not charge while wet."
+  },
+  "source": "https://www.voxpure.net/faqs#is-voxpure-waterproof"
+}

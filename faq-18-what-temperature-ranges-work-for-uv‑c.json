@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What temperature ranges work for UV\u2011C?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Sterilisation functions between 0\u202f\u00b0C and 60\u202f\u00b0C; holds hot or cold for up to 12 hours."
+  },
+  "source": "https://www.voxpure.net/faqs#what-temperature-ranges-work-for-uv\u2011c"
+}

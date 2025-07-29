@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What are your lead times?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Stock typically ships within 24 hours; larger wholesale orders may take up to 14 days."
+  },
+  "source": "https://www.voxpure.net/faqs#what-are-your-lead-times"
+}

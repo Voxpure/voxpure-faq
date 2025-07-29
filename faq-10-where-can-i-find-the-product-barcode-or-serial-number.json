@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Where can I find the product barcode or serial number?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It's printed on the outside of the box \u2014 keep it for support."
+  },
+  "source": "https://www.voxpure.net/faqs#where-can-i-find-the-product-barcode-or-serial-number"
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What is the return policy?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Unused items in original packaging can be returned within 30 days. Faulty items qualify for replacement or refund."
+  },
+  "source": "https://www.voxpure.net/faqs#what-is-the-return-policy"
+}

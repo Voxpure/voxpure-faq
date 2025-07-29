@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What if the cap fails?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Contact support; replacements offered under warranty or defect guidelines."
+  },
+  "source": "https://www.voxpure.net/faqs#what-if-the-cap-fails"
+}

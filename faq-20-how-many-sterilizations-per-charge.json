@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How many sterilizations per charge?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Up to 60 cycles per full charge."
+  },
+  "source": "https://www.voxpure.net/faqs#how-many-sterilizations-per-charge"
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Do you support drop-shipping?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. Voxpure ships only to retailer locations for wholesale orders."
+  },
+  "source": "https://www.voxpure.net/faqs#do-you-support-drop-shipping"
+}

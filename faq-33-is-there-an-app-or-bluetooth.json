@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is there an app or Bluetooth?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No \u2014 Voxpure is self-contained. Simple, dependable, and doesn\u2019t rely on apps."
+  },
+  "source": "https://www.voxpure.net/faqs#is-there-an-app-or-bluetooth"
+}

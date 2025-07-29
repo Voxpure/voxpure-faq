@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What happens if I open the cap mid\u2011cycle?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Purification stops immediately (built-in safety feature)."
+  },
+  "source": "https://www.voxpure.net/faqs#what-happens-if-i-open-the-cap-mid\u2011cycle"
+}

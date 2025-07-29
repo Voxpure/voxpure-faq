@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I use river or stream water?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes \u2014 works with clear sources. Let sediment settle first as it doesn\u2019t filter particles."
+  },
+  "source": "https://www.voxpure.net/faqs#can-i-use-river-or-stream-water"
+}

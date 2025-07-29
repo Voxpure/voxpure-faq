@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is the temperature display accurate?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, though it may read ~6\u20138\u202f\u00b0C higher post-sterilization due to internal heat."
+  },
+  "source": "https://www.voxpure.net/faqs#is-the-temperature-display-accurate"
+}

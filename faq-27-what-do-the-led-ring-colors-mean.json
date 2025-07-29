@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "What do the LED ring colors mean?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Blue = UV cycle running; Green = drink reminder; Light blue = under 36\u202f\u00b0C; Green = moderate (37\u201360\u202f\u00b0C); Red = hot (over 60\u202f\u00b0C); Flashing red = charging."
+  },
+  "source": "https://www.voxpure.net/faqs#what-do-the-led-ring-colors-mean"
+}

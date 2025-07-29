@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I replace the battery or UV light?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Components are sealed. For failures, contact support \u2014 sealed design protects integrity."
+  },
+  "source": "https://www.voxpure.net/faqs#can-i-replace-the-battery-or-uv-light"
+}

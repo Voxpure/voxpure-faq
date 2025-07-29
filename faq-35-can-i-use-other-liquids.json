@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I use other liquids?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Only water recommended. Other liquids may affect performance."
+  },
+  "source": "https://www.voxpure.net/faqs#can-i-use-other-liquids"
+}

@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Does Voxpure alter taste or remove PFAS?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No \u2014 it disinfects biologically but doesn\u2019t filter chemicals or change water chemistry."
+  },
+  "source": "https://www.voxpure.net/faqs#does-voxpure-alter-taste-or-remove-pfas"
+}

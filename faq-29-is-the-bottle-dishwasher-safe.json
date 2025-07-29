@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is the bottle dishwasher-safe?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Bottle yes; cap should be wiped gently \u2014 contains electronics."
+  },
+  "source": "https://www.voxpure.net/faqs#is-the-bottle-dishwasher-safe"
+}

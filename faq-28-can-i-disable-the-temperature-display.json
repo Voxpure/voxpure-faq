@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Can I disable the temperature display?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "It only activates when touched; no need to disable."
+  },
+  "source": "https://www.voxpure.net/faqs#can-i-disable-the-temperature-display"
+}

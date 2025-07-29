@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "Is a USB-C charging cable included?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Yes, and it\u2019s compatible with any standard USB-C cable."
+  },
+  "source": "https://www.voxpure.net/faqs#is-a-usb-c-charging-cable-included"
+}

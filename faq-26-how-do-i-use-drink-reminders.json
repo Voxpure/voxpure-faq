@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How do I use drink reminders?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Double-tap the cap to start 90-minute intervals. Four alerts max, then auto-off to conserve battery."
+  },
+  "source": "https://www.voxpure.net/faqs#how-do-i-use-drink-reminders"
+}

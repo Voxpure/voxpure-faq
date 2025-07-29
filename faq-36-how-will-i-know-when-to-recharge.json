@@ -1,0 +1,9 @@
+{
+  "@type": "Question",
+  "name": "How will I know when to recharge?",
+  "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Red flashing LED ring indicates low battery. Recharge via USB\u2011C."
+  },
+  "source": "https://www.voxpure.net/faqs#how-will-i-know-when-to-recharge"
+}
