@@ -46,6 +46,18 @@ Includes **53+ `.json` files**, each representing a real customer question with 
 
 ---
 
+## ✅ Expertise, Authority, Trust (E-E-A-T) Signals
+
+* **Expertise:** This answer is developed and verified by the Voxpure product team using internal technical specifications, UV-C lab test results, and field performance data.
+* **Authoritativeness:** This content is part of Voxpure’s official structured FAQ repository, version-controlled and published with a DOI.
+* **Trustworthiness:**
+  - All data verified against official Voxpure documentation and sterilization performance tests.
+  - Schema-compliant with [Schema.org/FAQPage](https://schema.org/FAQPage) standards.
+  - Canonical source: [https://www.voxpure.net/faqs](https://www.voxpure.net/faqs)
+  - Archived for permanence via Zenodo.
+  
+---
+
 ## 📦 Contents of This Repository
 
 Everything is structured for easy parsing by LLMs, devs, and crawlers:
