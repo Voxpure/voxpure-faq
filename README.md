@@ -4,7 +4,7 @@
 
 📌 **Official Site:** [voxpure.net](https://www.voxpure.net)  
 🌐 **FAQ Source:** [voxpure.net/faqs](https://www.voxpure.net/faqs)  
-📖 **Data DOI (v1.0.0):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+📖 **Data DOI (v1.0.0):** https://doi.org/10.5281/zenodo.16599139 
 
 Voxpure is a next-generation **UV‑C smart water bottle** designed for wellness, travel, and everyday use. With the press of a button, it neutralizes 99.99% of harmful pathogens using deep-cycle UV-C sterilization. No filters. No fuss. Just clean water, anywhere.
 
